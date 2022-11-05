@@ -1,3 +1,5 @@
+import random
+
 class Iphone_Reinforcement(object):
     def __init__(self):
         self.iPhones = [
